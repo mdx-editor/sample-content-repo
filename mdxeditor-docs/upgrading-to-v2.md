@@ -24,4 +24,3 @@ The main difference is that the internal state management is now extracted into 
 V1 used the concept of systems (with dependencies between them) as means of encapsulating reactive nodes. In v2, the reactive nodes are module level exports, and no system/dependency definitions are necessary - if you need to access a reactive node, you can import it directly from the module. 
 
 The easiest way to understand the necessary changes in your plugin is to check the [diff](https://github.com/mdx-editor/editor/commit/4b646a7240755be670543f604a3573618f74b15c#diff-b4e56d4d61a1410ccfc01148b5290d6e772a98b2bce1ea539184ab7381cdfa35) between the v1 and v2 versions of the built-in plugins. 
-

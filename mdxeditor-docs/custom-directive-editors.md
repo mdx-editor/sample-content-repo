@@ -133,4 +133,4 @@ You don't need to maintain a local state; the component gets re-rendered with th
 
 ## Rendering custom directives in production
 
-To replicate the custom directives behavior in "read" mode, you can use the [remark-directive](https://github.com/remarkjs/remark-directive) package to render directives up to your requirements. 
+To replicate the custom directives behavior in "read" mode, you can use the [remark-directive](https://github.com/remarkjs/remark-directive) package to render directives up to your requirements.
