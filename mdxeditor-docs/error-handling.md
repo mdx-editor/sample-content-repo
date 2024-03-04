@@ -4,7 +4,7 @@ slug: error-handling
 position: 100
 ---
 
-# Handling Errors
+# Handling Errors oo
 
 The markdown format can be complex due to its loose nature. You may integrate the editor on top of existing content that you have no full control over. In this article, we will go over the error types that the editor can produce, the actual reasons behind them, and how to handle them.
 
